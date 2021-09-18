@@ -1,1 +1,1 @@
-Just a Web application!
+Just a computer app!
